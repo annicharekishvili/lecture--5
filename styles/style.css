@@ -1,3 +1,12 @@
 h1 {
   color: orangered;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-family: 'Bitcount Single Ink', system-ui;
+}
+
+h3 {
+  font-family: 'BPG Square', sans-serif;
 }
